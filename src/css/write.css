@@ -1,0 +1,15 @@
+#write{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    flex-direction: column;
+}
+#content{
+    width: 800px;
+    height: 250px;
+}
+.writebox{
+    width: 700px;
+}

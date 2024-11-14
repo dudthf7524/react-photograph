@@ -1,0 +1,39 @@
+#detail{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: gainsboro;
+}
+#detailbox{
+    background-color: white;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#detailcontent{
+    width: 90%;
+}
+#blackbox{
+    background-color: black;
+    padding: 50px;
+}
+#writer{
+    padding: 10px;
+}
+#comment{
+    border: 1px solid;
+    padding: 20px;
+}
+#commentbox{
+   width: 100%;
+   height: 50px;
+}
+#commentbuttonbox{
+    text-align: right;
+   
+}

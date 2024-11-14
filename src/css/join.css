@@ -1,0 +1,33 @@
+
+@font-face {
+    font-family: 'Pretendard-Regular';
+    src: url('https://fastly.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+#join-title{
+    font-family: 'Pretendard-Regular';
+    font-size: 60px;
+    font-weight: bold;
+    
+}
+#join1{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    flex-direction: column;
+}
+
+#join2{
+    padding: 50px;
+    
+}
+#resultnickname, #resultusername, #resultpassword, #resultpasswordChk{
+    color: red;
+}
+.title{
+    font-weight: bolder;
+}
